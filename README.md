@@ -4,5 +4,5 @@ Using Matlab, apply kalman filtering to obtain distance from velocity informatio
 <hr>
 <h3>System Definition</h3>
 
-<hr
+<hr>
 <h3>Result</h3>
