@@ -3,7 +3,9 @@ Using Matlab, apply kalman filtering to obtain distance from velocity informatio
 
 <hr>
 <h3>System Definition</h3>
-<img src = "https://github.com/user-attachments/assets/dc464490-1026-46aa-b474-ca792e25e2cf" width="45%" height="45%">
+<div align="center>
+  <img src = "https://github.com/user-attachments/assets/dc464490-1026-46aa-b474-ca792e25e2cf" width="45%" height="45%">
+</div>
 <hr>
 <h3>Result</h3>
 <div align="center">
